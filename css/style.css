@@ -61,11 +61,6 @@ body {
     -webkit-text-fill-color: transparent;
 }
 
-section {
-    min-height: 90vh;
-
-}
-
 .letter-spacing-md {
     letter-spacing: 5px;
 }
@@ -206,10 +201,6 @@ a:hover {
     body {
         font-family: 'Poppins', sans-serif;
         overflow-x: hidden !important;
-    }
-
-    section {
-        min-height: 80vh;
     }
 
     .display-2 {
