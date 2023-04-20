@@ -1,1 +1,47 @@
 .vscode
+# macOS specific files
+.DS_Store
+._*
+*.swp
+
+# Node.js specific files
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Compiled files
+build/
+dist/
+
+# Log files
+*.log
+
+# Cache files
+*.cache/
+
+# Editor specific files
+*.sublime-workspace
+*.sublime-project
+*.vscode/
+*.idea/
+*.iml
+
+# OS generated files
+Thumbs.db
+Icon?
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+*.exe
+*.dll
+*.log
+*.log.*
+*.out
+*.pid
+*.seed
+*.pid.lock
+*.npmrc
+*.yarnrc
+yarn-error.log*
+yarn.lock
